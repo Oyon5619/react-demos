@@ -11,3 +11,6 @@
 npm install
 npm start
 ```
+
+或：
+直接打开public文件下的index.html来查看效果
