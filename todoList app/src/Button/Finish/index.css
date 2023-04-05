@@ -1,0 +1,15 @@
+.finish {
+  cursor: pointer;
+  width: 40px;
+  border: none;
+  height: 40px;
+  font-size: 30px;
+  color: #fff;
+  background: #0f0;
+  margin: 5px;
+  border-radius: 50%;
+}
+.finish:active {
+  color: #b7b7b7;
+  background: rgb(0, 145, 0);
+}

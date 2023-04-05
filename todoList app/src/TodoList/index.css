@@ -1,0 +1,33 @@
+.todos {
+  margin: 30px;
+}
+
+hr {
+  height: 3px;
+  background-color: #000;
+  border: none;
+}
+
+.item {
+  display: block;
+  font-size: 30px;
+  background: #ccc;
+  border-top-left-radius: 0.5em;
+  border-bottom-right-radius: 0.5em;
+  margin: 20px;
+  padding-left: 15px;
+  line-height: 60px;
+  border-left: 20px solid rgb(0, 142, 202);
+}
+
+.opr {
+  margin-right: 30px;
+  font-size: 25px;
+  text-align: center;
+  float: right;
+}
+
+.notice {
+  font-size: 20px;
+  padding: 20px;
+}

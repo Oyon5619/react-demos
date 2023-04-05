@@ -1,0 +1,44 @@
+.sidebar {
+  display: block;
+  text-align: center;
+  position: absolute;
+  background: #567;
+  width: 20%;
+  height: 200%;
+}
+
+.fold {
+  display: none;
+}
+
+.sidebar .title {
+  font-weight: bold;
+  color: #fff;
+  margin-top: 30px;
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+textarea {
+  resize: none;
+  width: 75%;
+  height: 400px;
+  padding: 10px;
+  font-size: 30px;
+  border-radius: 0.5em;
+  border: 10px solid #cdcdcd;
+}
+textarea::placeholder {
+  font-style: italic;
+}
+textarea:focus {
+  outline: none;
+}
+
+.sentence {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: italic;
+  margin-top: 100px;
+  color: #fff;
+  font-size: 25px;
+}

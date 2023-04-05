@@ -1,0 +1,12 @@
+.header {
+  position: relative;
+  cursor: pointer;
+  background: #efefef;
+  padding: 25px;
+  font-weight: bolder;
+  font-size: 60px;
+}
+
+.header span {
+  margin-right: 20px;
+}
